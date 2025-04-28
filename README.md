@@ -1,0 +1,2 @@
+VRChat地图 猜数字游戏
+Hit & Blow 是一个双人数字推理游戏。玩家各自选择一个不重复的三位数，然后轮流猜测对方的数字。通过Hit(数字和位置都正确)和Blow(数字正确但位置错误)的提示，玩家进行推理。 Hit & Blow is a two-player number deduction game. Each player selects a unique three-digit number, then takes turns guessing the opponent's number. Using hints of "Hit" (correct number and position) and "Blow" (correct number, wrong position), players deduce the opponent's number. Hit & Blow は、2人で行う数字推理ゲームです。各プレイヤーは重複しない3桁の数字を選び、交互に相手の数字を推測します。「Hit」(数字と位置が正しい)と「Blow」(数字は正しいが位置が間違っている)のヒントを使って、相手の数字を推理します。
